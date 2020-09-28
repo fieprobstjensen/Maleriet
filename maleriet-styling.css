@@ -1,0 +1,62 @@
+.første-overskrift {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("images/pattern.jpeg");
+}
+.pensler {
+  padding-left: 10px;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.ilterhaar-pensler {
+  font-weight: bold;
+  font-family: helvetica;
+}
+.ilterhaar {
+  font-family: helvetica;
+}
+.tid {
+  color: blue;
+  font-weight: bold;
+}
+.rammer {
+  padding-left: 10px;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+.kunstrammer {
+    font-weight: bold;
+    font-family: helvetica;
+}
+.kunst {
+  font-family: helvetica;
+}
+.maling {
+  padding-left: 10px;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+.klar {
+    font-weight: bold;
+    font-family: helvetica;
+}
+.male {
+  font-family: helvetica;
+}
+span {
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
